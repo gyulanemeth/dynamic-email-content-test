@@ -1,0 +1,6 @@
+.rc::after {
+    content: 'Let us see if we can change the content after the email is sent...';
+    display: block;
+    background: #f4f5f6;
+    color: #000000;
+}
